@@ -1,0 +1,15 @@
+MC01
+Curry Chicken on Rice
+11.50
+MAIN_COURSE
+.
+MC02
+Mushroom and Vegetables on Rice
+12.50
+MAIN_COURSE
+.
+DR01
+Healthy Milk
+2.50
+DRINK
+.

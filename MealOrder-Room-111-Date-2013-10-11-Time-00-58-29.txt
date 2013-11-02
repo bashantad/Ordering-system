@@ -1,0 +1,6 @@
+11/58/2013 00:58
+Room Number: 111
+Food items ordered:
+	Curry Chicken on Rice $11.5
+	Mushroom and Vegetables on Rice $12.5
+Total: $24.0

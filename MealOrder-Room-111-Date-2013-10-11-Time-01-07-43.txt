@@ -1,0 +1,5 @@
+11/07/2013 01:07
+Room Number: 111
+Food items ordered:
+	Curry Chicken on Rice $11.5
+Total: $11.5
